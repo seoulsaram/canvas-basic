@@ -1,12 +1,12 @@
 /**
  * bar.js
  * simple, elegant bar chart library
- * {date} - version 1.0
- * {url} -
+ * 24.03.05 - version 1.0
+ * https://github.com/seoulsaram/canvas-basic/tree/main/17_chart_drawing%20copy
  *
  * Copyright 2024 Gayeon Kim
  * Released under the MIT License
- * {license url}
+ * https://github.com/seoulsaram/canvas-basic/blob/main/17_chart_drawing%20copy/LICENCE.md
  *
  *
  */
